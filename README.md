@@ -1,5 +1,5 @@
 **OpenCV Course**
-
+(OpenCV is an Open Source Computer Vision library which processes the images)
 1. How to Read, Write, Show Images in OpenCV
 2. How to Read, Write, Show Videos from Camera in OpenCV
 3. Draw geometric shapes on images using Python OpenCV
