@@ -26,6 +26,8 @@
 24. Hough Line Transform using HoughLines method in OpenCV
 25. Probabilistic Hough Transform using HoughLinesP in OpenCV
 26. Circle Detection using OpenCV Hough Circle Transform
+27. Mean Shift Object Tracking
+28. Object Tracking Camshift Method
 
 
 (Just saving here for me to revise whenever necessary)
